@@ -51,5 +51,3 @@ yarn test:coverage
   - TailwindCSS
 
 ## TO-DO
-
-- Set up Storybook
